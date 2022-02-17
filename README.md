@@ -2,7 +2,8 @@
 - 👀 I’m interested in Automating Stuff
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Automated quiz generating program
-- 📫 How to reach me IG : @code.all_day
+- 📫 How to reach me IG : @de_cen_tralized
+- 
 
 <!---
 iamcool0090/iamcool0090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
